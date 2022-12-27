@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">ControlsSample</string>
+    <string name="choose_me">Выбери меня</string>
+    <string name="text_on">Звонок включен</string>
+    <string name="text_off">Звонок выключен</string>
+    <string name="checked">Checked</string>
+    <string name="unchecked">Unchecked</string>
+    <string name="text_on_act">Включено</string>
+    <string name="text_off_act">Выключено</string>
+    <string name="radio_dog">Собачка</string>
+    <string name="radio_cat">Кошечка</string>
+    <string name="radio_rabbit">Кролик</string>
+    <string name="button_pressed">Кнопка нажата</string>
+    <string name="button">Кнопочка</string>
+    <string name="clear">Очистить</string>
+    <string name="cleared">Очищено</string>
+</resources>
